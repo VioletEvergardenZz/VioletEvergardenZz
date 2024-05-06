@@ -12,4 +12,4 @@
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=VioletEvergardenZz&theme=dracula)
