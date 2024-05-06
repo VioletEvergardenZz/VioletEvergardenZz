@@ -1,4 +1,4 @@
-<h2><em>要一直努力,直到最后.</em></h2>
+<h2><em>To keep doing your best,up until the very end.</em></h2>
 
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=VioletEvergardenZz&show_icons=true&theme=tokyonight) 
