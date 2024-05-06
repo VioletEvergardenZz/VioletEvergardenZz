@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&height=28&lines=To+keep+doing+your+best%2Cup+until+the+very+end.)](https://git.io/typing-svg)
-
-
+<h2><em>To keep doing your best,up until the very end.</em></h2>
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
