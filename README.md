@@ -1,10 +1,10 @@
-<h1 align="center">
+<!-- <h1 align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F03A17&duration=4500&pause=1000&center=true&random=false&width=435&separator=%3C&lines=printf(%22hello%2C+world%5Cn%22);%3C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C" alt="Typing SVG" />
 	</a>
-</h1>
+</h1> -->
 
-
+![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240506185420.jpg)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
