@@ -1,9 +1,5 @@
 <h2><em>To keep doing your best,up until the very end.</em></h2>
 
-
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=VioletEvergardenZz&show_icons=true&theme=tokyonight) 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
-
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
@@ -15,3 +11,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
