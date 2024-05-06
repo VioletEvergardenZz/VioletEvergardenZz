@@ -1,24 +1,8 @@
-// 创建一个 SVG 元素
-const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
-svg.setAttribute("width", "435");
-svg.setAttribute("height", "28");
-
-// 创建文本元素
-const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
-text.setAttribute("font-family", "Fira Code");
-text.setAttribute("font-size", "24");
-text.setAttribute("x", "10");
-text.setAttribute("y", "20");
-text.textContent = "你好，世界";
-
-// 将文本元素添加到 SVG 中
-svg.appendChild(text);
-
-// 将 SVG 转换为字符串并添加到 README 中
-const svgString = encodeURIComponent(new XMLSerializer().serializeToString(svg));
-const typingSVG = `![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&height=28&lines=${svgString})`;
-
-
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好，世界&center=true&size=27">
+	</a>
+</h1>
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
