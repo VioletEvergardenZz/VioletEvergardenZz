@@ -1,7 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
-<h2><em>To keep doing your best,up until the very end.</em></h2>
-
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
