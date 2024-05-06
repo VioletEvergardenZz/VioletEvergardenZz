@@ -5,7 +5,7 @@
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash,docker,kubernetes,linux,ubuntu,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,docker,kubernetes,git,linux,ubuntu,vscode&theme=light)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/-python-%230066B8?style=flat&logo=python&logoColor=ffffff) 
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
