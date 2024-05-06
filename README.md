@@ -1,8 +1,7 @@
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好，世界&center=true&size=27">
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22hello%2C%20world%5Cn%22);你好，世界&center=true&size=27">
 </h1>
+
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
