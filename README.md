@@ -11,3 +11,5 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
