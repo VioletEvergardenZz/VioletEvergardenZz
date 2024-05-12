@@ -10,7 +10,8 @@
 ---
 
 ### **_"花无凋零之时，意无传达之日；_**
-###  **_爱情亘古不变，紫罗兰永存于世"_**
+### **_爱情亘古不变，紫罗兰永存于世"_**
+
 
 ---
 
@@ -35,7 +36,7 @@ Here you'll find a showcase of my skills and projects. Feel free to explore! �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VioletEvergardenZz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## activity graph 📈
+## Activity Graph 📈
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VioletEvergardenZz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
