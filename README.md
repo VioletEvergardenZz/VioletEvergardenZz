@@ -21,5 +21,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=VioletEvergardenZz&layout=compact&theme=tokyonight) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VioletEvergardenZz&theme=dark&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VioletEvergardenZz)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
