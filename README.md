@@ -7,6 +7,16 @@
 <!-- ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240506185420.jpg) -->
 
 ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/1355035.jpeg)
+---
+
+#### *"花无凋零之时，意无传达之日；*
+#### *爱情亘古不变，紫罗兰永存于世"*
+
+---
+
+### Welcome to My GitHub Profile!
+
+Here you'll find a showcase of my skills and projects. Feel free to explore!
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,vue,docker,kubernetes,git&theme=light)](https://skillicons.dev)
