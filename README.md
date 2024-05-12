@@ -6,7 +6,7 @@
 
 <!-- ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240506185420.jpg) -->
 
-![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/violt.jpg)
+![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/1355035.jpeg)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
