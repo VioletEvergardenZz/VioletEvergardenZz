@@ -14,12 +14,13 @@
 
 ---
 
-## Welcome to My GitHub Profile!
+## Welcome to My GitHub Profile! 🚀
 
-Here you'll find a showcase of my skills and projects. Feel free to explore!
+Here you'll find a showcase of my skills and projects. Feel free to explore! 🌟
 
+---
 
-## Languages and Tools
+## Languages and Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,vue,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/-python-%233776AB?style=flat&logo=python&logoColor=ffffff)
