@@ -9,7 +9,7 @@
 ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/1355035.jpeg)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,docker,kubernetes,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,vue,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/-python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
@@ -17,6 +17,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
