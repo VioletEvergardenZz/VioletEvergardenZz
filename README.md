@@ -6,10 +6,10 @@
 
 <!-- ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240506185420.jpg) -->
 
-![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/1355035.jpeg)
+<!-- ![image](https://github.com/VioletEvergardenZz/VioletEvergardenZz/blob/main/IMG/1355035.jpeg) -->
 ---
 
-### **_"花无凋零之时，意无传达之日；_** **_爱情亘古不变，紫罗兰永存于世"_**
+<!-- ### **_"花无凋零之时，意无传达之日；_** **_爱情亘古不变，紫罗兰永存于世"_** -->
 
 ---
 
