@@ -20,7 +20,7 @@ Here you'll find a showcase of my skills and projects. Feel free to explore! �
 ---
 
 ## Languages and Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,vue,docker,kubernetes,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,ubuntu,vscode,vue,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/-python-%233776AB?style=flat&logo=python&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
