@@ -49,7 +49,7 @@ Here you'll find a showcase of my skills and projects. Feel free to explore! ðŸŒ
 
 ## ðŸ“¬ Contact Me
 
-Feel free to reach out to me via [GitHub Issues](https://github.com/VioletEvergardenZz/VioletEvergardenZz/issues) or [LinkedIn](https://www.linkedin.com/in/yourprofile). 
+Feel free to reach out to me via [GitHub Issues](https://github.com/VioletEvergardenZz/VioletEvergardenZz/issues).
 
 ---
 
