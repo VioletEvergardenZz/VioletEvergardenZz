@@ -23,11 +23,11 @@ Here you'll find a showcase of my skills and projects. Feel free to explore! ðŸŒ
 [![My Skills](https://skillicons.dev/icons?i=py,bash,mysql,linux,ubuntu,vscode,django,vue,nginx,docker,kubernetes,git&theme=light)](https://skillicons.dev)
 
 ![python](https://img.shields.io/badge/-python-%233776AB?style=flat&logo=python&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat&logo=gnu-bash&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23009639?style=flat&logo=nginx&logoColor=ffffff)
