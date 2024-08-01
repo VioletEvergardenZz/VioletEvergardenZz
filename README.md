@@ -34,18 +34,18 @@ Here you'll find a showcase of my skills and projects. Feel free to explore! �
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VioletEvergardenZz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VioletEvergardenZz&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
-<!-- ## 📈 Activity Graph
+## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VioletEvergardenZz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
---- -->
+---
 
 ## 📬 Contact Me
 
